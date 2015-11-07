@@ -1,0 +1,36 @@
+\BOOKMARK [0][-]{chapter*.3}{LIST OF TABLES}{}
+\BOOKMARK [0][-]{chapter*.5}{LIST OF FIGURES}{}
+\BOOKMARK [0][-]{section*.6}{ACKNOWLEDGMENT}{}
+\BOOKMARK [0][-]{section*.8}{ABSTRACT}{}
+\BOOKMARK [0][-]{chapter.1}{INTRODUCTION}{}
+\BOOKMARK [1][-]{section.1.1}{Focus Plus Context}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Thesis Outline and Contributions}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{PREVIOUS WORK}{}
+\BOOKMARK [1][-]{section.2.1}{Focus Plus Context Visualizations}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{Geometric Transformations}{chapter.2}
+\BOOKMARK [1][-]{section.2.3}{Summary}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{VISUALIZATION}{}
+\BOOKMARK [1][-]{section.3.1}{Legacy OpenGL}{chapter.3}
+\BOOKMARK [1][-]{section.3.2}{Modern OpenGL}{chapter.3}
+\BOOKMARK [1][-]{section.3.3}{Base Visualization Elements}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.3.1}{Buttons}{section.3.3}
+\BOOKMARK [2][-]{subsection.3.3.2}{Lines}{section.3.3}
+\BOOKMARK [2][-]{subsection.3.3.3}{Text}{section.3.3}
+\BOOKMARK [1][-]{section.3.4}{Satellite Images}{chapter.3}
+\BOOKMARK [1][-]{section.3.5}{Road Network}{chapter.3}
+\BOOKMARK [1][-]{section.3.6}{Summary}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{MAGNIFICATION}{}
+\BOOKMARK [1][-]{section.4.1}{Texture Magnification}{chapter.4}
+\BOOKMARK [1][-]{section.4.2}{Graph Magnification}{chapter.4}
+\BOOKMARK [1][-]{section.4.3}{Multi-cursor Magnification}{chapter.4}
+\BOOKMARK [1][-]{section.4.4}{Summary}{chapter.4}
+\BOOKMARK [0][-]{chapter.5}{RESULTS}{}
+\BOOKMARK [1][-]{section.5.1}{Images}{chapter.5}
+\BOOKMARK [1][-]{section.5.2}{Performance}{chapter.5}
+\BOOKMARK [1][-]{section.5.3}{Survey and Discussion}{chapter.5}
+\BOOKMARK [1][-]{section.5.4}{Summary}{chapter.5}
+\BOOKMARK [0][-]{chapter.6}{FUTURE WORK AND CONCLUSION}{}
+\BOOKMARK [1][-]{section.6.1}{Satellite Images}{chapter.6}
+\BOOKMARK [1][-]{section.6.2}{Graph Network}{chapter.6}
+\BOOKMARK [1][-]{section.6.3}{Conclusion}{chapter.6}
+\BOOKMARK [0][-]{section*.54}{References}{}

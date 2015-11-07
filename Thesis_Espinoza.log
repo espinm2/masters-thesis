@@ -1,0 +1,1086 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2015.11.2)  4 NOV 2015 20:41
+entering extended mode
+ %&-line parsing enabled.
+**Thesis_Espinoza.tex
+(./Thesis_Espinoza.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(./rpi_thesis.cls
+Document Class: rpi_thesis 2009/01/06 Rensselaer Polytechnic Institute
+(/usr/share/texmf-texlive/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\c@firstchapter=\count88
+\numcomm=\count89
+\numcount=\count90
+)
+(/usr/share/texmf-texlive/tex/latex/caption/caption.sty
+Package: caption 2009/10/09 v3.1k Customizing captions (AR)
+
+(/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
+Package: caption3 2009/10/09 v3.1k caption3 kernel (AR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\captionmargin=\dimen103
+\captionmargin@=\dimen104
+\captionwidth=\dimen105
+\caption@indent=\dimen106
+\caption@parindent=\dimen107
+\caption@hangindent=\dimen108
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used on input line 1068.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {\bfseries #1:~~#2}\ifdim \wd \@tempboxa >\hsize {\bfseries 
+#1:~~#2}\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempbox
+a \hfil }\fi \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count91
+) (/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count92
+))
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen109
+\Gin@req@width=\dimen110
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-texlive/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count93
+\c@ALG@rem=\count94
+\c@ALG@nested=\count95
+\ALG@tlm=\skip43
+\ALG@thistlm=\skip44
+\c@ALG@Lnr=\count96
+\c@ALG@blocknr=\count97
+\c@ALG@storecount=\count98
+\c@ALG@tmpcounter=\count99
+\ALG@tmplength=\skip45
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/share/texmf-texlive/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks15
+\float@box=\box26
+\@float@everytoks=\toks16
+\@floatcapt=\box27
+)
+\@float@every@algorithm=\toks17
+\c@algorithm=\count101
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.sty
+\lst@mode=\count102
+\lst@gtempboxa=\box28
+\lst@token=\toks18
+\lst@length=\count103
+\lst@currlwidth=\dimen111
+\lst@column=\count104
+\lst@pos=\count105
+\lst@lostspace=\dimen112
+\lst@width=\dimen113
+\lst@newlines=\count106
+\lst@lineno=\count107
+\lst@maxwidth=\dimen114
+
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count108
+\lst@skipnumbers=\count109
+\lst@framebox=\box29
+)
+(/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen115
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen116
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count110
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count111
+\leftroot@=\count112
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count113
+\DOTSCASE@=\count114
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count115
+\c@MaxMatrixCols=\count116
+\dotsspace@=\muskip11
+\c@parentequation=\count117
+\dspbrk@lvl=\count118
+\tag@help=\toks20
+\row@=\count119
+\column@=\count120
+\maxfields@=\count121
+\andhelp@=\toks21
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks22
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count122
+\rotFPtop=\skip49
+\rotFPbot=\skip50
+\rot@float@box=\box32
+\rot@mess@toks=\toks24
+)
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen124
+\Hy@linkcounter=\count123
+\Hy@pagecounter=\count124
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+LaTeX Info: Redefining \url on input line 3428.
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count125
+\Field@Width=\dimen125
+\Fld@charsize=\dimen126
+\Field@toks=\toks25
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count126
+\c@Item=\count127
+\c@Hfootnote=\count128
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count129
+)
+Package hyperref Info: Option `unicode' set `false' on input line 70.
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/puenc.def
+File: puenc.def 2009/10/09 v6.79a Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 70.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 70.
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 70.
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 70.
+Package hyperref Info: Option `colorlinks' set `true' on input line 70.
+
+(/usr/share/texmf-texlive/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 285.
+LaTeX Info: Redefining \nocite on input line 356.
+Package: cite 2009/08/29  v 5.2
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(/usr/share/texmf-texlive/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count130
+\c@@ppsavesec=\count131
+\c@@ppsaveapp=\count132
+)
+(/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+)
+(./Thesis_Espinoza.aux (./TitlePage.aux) (./Acknowledgement.aux)
+(./Abstract.aux) (./Intro.aux) (./PreviousWorks.aux) (./Visualization.aux)
+(./Magnification.aux) (./Results.aux) (./FutureWork.aux))
+\openout1 = `Thesis_Espinoza.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count133
+\scratchdimen=\dimen127
+\scratchbox=\box33
+\nofMPsegments=\count134
+\nofMParguments=\count135
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count136
+\MPscratchDim=\dimen128
+\MPnumerator=\count137
+\everyMPtoPDFconversion=\toks27
+)
+\c@lstlisting=\count138
+Package hyperref Info: Link coloring ON on input line 115.
+ (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count139
+)
+LaTeX Info: Redefining \ref on input line 115.
+LaTeX Info: Redefining \pageref on input line 115.
+
+(./Thesis_Espinoza.out) (./Thesis_Espinoza.out)
+\@outlinefile=\write3
+\openout3 = `Thesis_Espinoza.out'.
+
+\AtBeginShipoutBox=\box34
+\openout2 = `TitlePage.aux'.
+
+ (./TitlePage.tex [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Thesis_Espinoza.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [2
+
+])
+\tf@toc=\write4
+\openout4 = `Thesis_Espinoza.toc'.
+
+ [3]
+(./Thesis_Espinoza.lot)
+\tf@lot=\write5
+\openout5 = `Thesis_Espinoza.lot'.
+
+ [4
+
+
+] (./Thesis_Espinoza.lof [5
+
+
+])
+\tf@lof=\write6
+\openout6 = `Thesis_Espinoza.lof'.
+
+) [6]
+\openout2 = `Acknowledgement.aux'.
+
+
+(./Acknowledgement.tex) [7
+
+
+
+
+]
+\openout2 = `Abstract.aux'.
+
+ (./Abstract.tex) [8
+
+
+
+
+]
+\openout2 = `Intro.aux'.
+
+ (./Intro.tex
+CHAPTER 1.
+
+LaTeX Warning: Citation `Mendonca2014' on page 1 undefined on input line 14.
+
+[1
+
+
+
+] <img/mapview_example.jpg, id=318, 728.5204pt x 546.63281pt>
+File: img/mapview_example.jpg Graphic file (type jpg)
+
+<use img/mapview_example.jpg>
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 30.
+
+(/usr/share/texmf-texlive/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [2 <./img/mapview_example.jpg>]
+
+LaTeX Warning: Citation `Sammann2013' on page 3 undefined on input line 34.
+
+<img/global_zoom_problem.jpg, id=325, 1606.0pt x 1003.75pt>
+File: img/global_zoom_problem.jpg Graphic file (type jpg)
+
+<use img/global_zoom_problem.jpg>
+
+LaTeX Warning: Citation `Cockburn2008' on page 3 undefined on input line 55.
+
+[3] [4 <./img/global_zoom_problem.jpg>]
+
+LaTeX Warning: File `img/1853_Louisiana.jpg' not found on input line 58.
+
+
+! Package pdftex.def Error: File `img/1853_Louisiana.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...dth=0.8\linewidth]{img/1853_Louisiana.jpg}
+                                                  
+? 
+
+LaTeX Warning: Citation `Mitchell1853' on page 5 undefined on input line 59.
+
+
+LaTeX Warning: Citation `Mitchell1853' on page 5 undefined on input line 59.
+
+<img/zoom_interface.jpg, id=336, 1192.455pt x 871.255pt>
+File: img/zoom_interface.jpg Graphic file (type jpg)
+
+<use img/zoom_interface.jpg>
+
+LaTeX Warning: Citation `google_maps' on page 5 undefined on input line 65.
+
+
+LaTeX Warning: Citation `google_maps' on page 5 undefined on input line 65.
+
+
+LaTeX Warning: Citation `Furnas1986' on page 5 undefined on input line 72.
+
+
+LaTeX Warning: Citation `Furnas1986' on page 5 undefined on input line 73.
+
+[5]
+
+LaTeX Warning: Citation `Furnas2006' on page 6 undefined on input line 81.
+
+
+LaTeX Warning: Citation `Furnas2006' on page 6 undefined on input line 82.
+
+[6 <./img/zoom_interface.jpg>]
+
+LaTeX Warning: Citation `Leung1994' on page 7 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Kadmon1978' on page 7 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Mackinlay1991' on page 7 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Sarkar1992' on page 7 undefined on input line 85.
+
+
+LaTeX Warning: Citation `Leung1994' on page 7 undefined on input line 87.
+
+[7]) [8]
+\openout2 = `PreviousWorks.aux'.
+
+ (./PreviousWorks.tex
+CHAPTER 2.
+
+LaTeX Warning: Citation `Mackinlay1991' on page 9 undefined on input line 17.
+
+<img/Perspective_Wall.jpg, id=369, 891.8118pt x 407.6028pt>
+File: img/Perspective_Wall.jpg Graphic file (type jpg)
+
+<use img/Perspective_Wall.jpg>
+<img/perspective_wall_actual.jpg, id=370, 298.11375pt x 197.98969pt>
+File: img/perspective_wall_actual.jpg Graphic file (type jpg)
+
+<use img/perspective_wall_actual.jpg>
+
+LaTeX Warning: Citation `Mackinlay1991' on page 9 undefined on input line 25.
+
+
+LaTeX Warning: Citation `Mackinlay1991' on page 9 undefined on input line 25.
+
+
+LaTeX Warning: Citation `Baudisch2001' on page 9 undefined on input line 29.
+
+[9
+
+
+
+] <img/f_and_c.jpg, id=376, 891.8118pt x 582.4962pt>
+File: img/f_and_c.jpg Graphic file (type jpg)
+ <use img/f_and_c.jpg>
+
+LaTeX Warning: File `img/f_and_c_actual.jpg' not found on input line 37.
+
+
+! Package pdftex.def Error: File `img/f_and_c_actual.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 ...th=0.45\linewidth]{img/f_and_c_actual.jpg}
+                                                  
+? 
+
+LaTeX Warning: Citation `Baudisch2001' on page 10 undefined on input line 40.
+
+
+LaTeX Warning: Citation `Baudisch2001' on page 10 undefined on input line 40.
+
+
+LaTeX Warning: Citation `Baudisch2002' on page 10 undefined on input line 44.
+
+[10 <./img/Perspective_Wall.jpg> <./img/perspective_wall_actual.jpg>]
+
+LaTeX Warning: Citation `Gansner2005' on page 11 undefined on input line 47.
+
+
+LaTeX Warning: Citation `Furnas1986' on page 11 undefined on input line 47.
+
+[11 <./img/f_and_c.jpg>]
+
+LaTeX Warning: Citation `Furnas1986' on page 12 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Sarkar1992' on page 12 undefined on input line 54.
+
+[12]
+
+LaTeX Warning: Citation `Kadmon1978' on page 13 undefined on input line 75.
+
+
+LaTeX Warning: Citation `Kadmon1978' on page 13 undefined on input line 90.
+
+[13] <img/regions_diagram.jpg, id=407, 1628.61972pt x 1017.88733pt>
+File: img/regions_diagram.jpg Graphic file (type jpg)
+
+<use img/regions_diagram.jpg>
+<img/non_continuous.jpg, id=409, 464.73625pt x 424.58624pt>
+File: img/non_continuous.jpg Graphic file (type jpg)
+
+<use img/non_continuous.jpg>
+<img/discontinuity_graph.jpg, id=410, 438.0pt x 297.11pt>
+File: img/discontinuity_graph.jpg Graphic file (type jpg)
+
+<use img/discontinuity_graph.jpg> [14] [15 <./img/regions_diagram.jpg> <./img/n
+on_continuous.jpg> <./img/discontinuity_graph.jpg>]
+
+LaTeX Warning: Citation `Keahey1997' on page 16 undefined on input line 114.
+
+
+LaTeX Warning: Citation `Keahey1998' on page 16 undefined on input line 117.
+
+
+LaTeX Warning: Citation `Kadmon1978' on page 16 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Sarkar1992' on page 16 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Keahey1996' on page 16 undefined on input line 120.
+
+
+LaTeX Warning: Citation `Elmqvist2010' on page 16 undefined on input line 120.
+
+[16] <img/Melange.jpg, id=425, 927.9468pt x 409.0482pt>
+File: img/Melange.jpg Graphic file (type jpg)
+ <use img/Melange.jpg>
+<img/melange_actual.jpg, id=426, 276.28218pt x 165.61874pt>
+File: img/melange_actual.jpg Graphic file (type jpg)
+
+<use img/melange_actual.jpg>
+
+LaTeX Warning: Citation `Elmqvist2010' on page 17 undefined on input line 130.
+
+
+LaTeX Warning: Citation `Elmqvist2010' on page 17 undefined on input line 130.
+
+
+LaTeX Warning: Citation `Bottger2008' on page 17 undefined on input line 134.
+
+[17 <./img/Melange.jpg> <./img/melange_actual.jpg>]) [18]
+\openout2 = `Visualization.aux'.
+
+ (./Visualization.tex
+CHAPTER 3.
+
+LaTeX Warning: Citation `opengl_3_specification' on page 19 undefined on input 
+line 12.
+
+
+LaTeX Warning: Citation `opengl_matrix_stack' on page 19 undefined on input lin
+e 41.
+
+[19
+
+
+
+] [20]
+
+LaTeX Warning: Citation `opengl_3_specification' on page 21 undefined on input 
+line 61.
+
+[21] (./data/modern_triangle.cpp) [22] (./data/simple.vert) (./data/simple.frag
+)
+
+LaTeX Warning: Citation `glm_website' on page 23 undefined on input line 85.
+
+[23] <img/pipeline.jpg, id=531, 2053.9134pt x 841.2228pt>
+File: img/pipeline.jpg Graphic file (type jpg)
+
+<use img/pipeline.jpg> [24 <./img/pipeline.jpg>]
+<img/buttons.jpg, id=537, 781.92125pt x 396.48125pt>
+File: img/buttons.jpg Graphic file (type jpg)
+ <use img/buttons.jpg>
+[25 <./img/buttons.jpg>]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 118.
+
+
+LaTeX Warning: Citation `opengl_depth_buffer' on page 26 undefined on input lin
+e 148.
+
+
+LaTeX Warning: Citation `Berg1993' on page 26 undefined on input line 149.
+
+[26] <img/button_layering.jpg, id=551, 346.29375pt x 249.93375pt>
+File: img/button_layering.jpg Graphic file (type jpg)
+
+<use img/button_layering.jpg> [27 <./img/button_layering.jpg>] [28]
+<img/button_types.jpg, id=564, 914.41624pt x 320.19624pt>
+File: img/button_types.jpg Graphic file (type jpg)
+
+<use img/button_types.jpg>
+Overfull \hbox (5.30865pt too wide) in paragraph at lines 220--224
+\T1/cmr/m/n/12 OpenGL with two ma-jor caveats. Legacy OpenGL al-lowed for calls
+ to \T1/cmtt/m/n/12 glLineWidth()
+ []
+
+[29 <./img/button_types.jpg>]
+<img/expanded_edge_no_joint.jpg, id=574, 1205.50375pt x 445.665pt>
+File: img/expanded_edge_no_joint.jpg Graphic file (type jpg)
+
+<use img/expanded_edge_no_joint.jpg>
+<img/expanded_edge_joint.jpg, id=575, 1205.50375pt x 448.67625pt>
+File: img/expanded_edge_joint.jpg Graphic file (type jpg)
+
+<use img/expanded_edge_joint.jpg> [30] [31 <./img/expanded_edge_no_joint.jpg> <
+./img/expanded_edge_joint.jpg>]
+
+LaTeX Warning: Citation `glut_website' on page 32 undefined on input line 288.
+
+
+LaTeX Warning: Citation `freetype_website' on page 32 undefined on input line 2
+95.
+
+<img/font_atlas.jpg, id=589, 1058.60281pt x 23.4114pt>
+File: img/font_atlas.jpg Graphic file (type jpg)
+
+<use img/font_atlas.jpg> [32 <./img/font_atlas.jpg>]
+<img/text_path.jpg, id=596, 797.98125pt x 233.87375pt>
+File: img/text_path.jpg Graphic file (type jpg)
+ <use img/text_path.jpg>
+[33] [34 <./img/text_path.jpg>]
+<img/satellite_and_road.jpg, id=607, 473.77pt x 403.5075pt>
+File: img/satellite_and_road.jpg Graphic file (type jpg)
+
+<use img/satellite_and_road.jpg> [35 <./img/satellite_and_road.jpg>]) [36]
+\openout2 = `Magnification.aux'.
+
+
+(./Magnification.tex
+CHAPTER 4.
+
+LaTeX Warning: Citation `Keahey1996' on page 37 undefined on input line 12.
+
+[37
+
+
+
+] <img/cursor_mag.jpg, id=626, 1157.7654pt x 1157.7654pt>
+File: img/cursor_mag.jpg Graphic file (type jpg)
+
+<use img/cursor_mag.jpg>
+<img/texture_mag.jpg, id=630, 1308.087pt x 1303.7508pt>
+File: img/texture_mag.jpg Graphic file (type jpg)
+
+<use img/texture_mag.jpg> [38 <./img/cursor_mag.jpg>] [39 <./img/texture_mag.jp
+g>] <img/logistic_graph.jpg, id=652, 584.0pt x 438.0pt>
+File: img/logistic_graph.jpg Graphic file (type jpg)
+
+<use img/logistic_graph.jpg> <img/full_graph.jpg, id=655, 975.28pt x 446.76pt>
+File: img/full_graph.jpg Graphic file (type jpg)
+
+<use img/full_graph.jpg> [40 <./img/logistic_graph.jpg>] [41 <./img/full_graph.
+jpg>]
+
+LaTeX Warning: Citation `Corless1996' on page 42 undefined on input line 142.
+
+
+Overfull \hbox (31.59251pt too wide) in paragraph at lines 150--151
+[]\T1/cmr/m/n/12 The full piece-wise func-tion for graph mag-ni-fi-ca-tion is s
+een be-low, $\OML/cmm/m/it/12 BinarySearch\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 z; 
+d\OT1/cmr/m/n/12 )$
+ []
+
+[42] <img/multi_cursor.jpg, id=684, 787.743pt x 542.025pt>
+File: img/multi_cursor.jpg Graphic file (type jpg)
+
+<use img/multi_cursor.jpg> [43 <./img/multi_cursor.jpg>]
+<img/clicking.jpg, id=694, 1088.3862pt x 1111.5126pt>
+File: img/clicking.jpg Graphic file (type jpg)
+ <use img/clicking.jpg>)
+[44 <./img/clicking.jpg>] [45]
+\openout2 = `Results.aux'.
+
+ (./Results.tex
+CHAPTER 5.
+[46
+
+
+
+] <img/s_r_no_zoom.jpg, id=710, 1606.0pt x 1003.75pt>
+File: img/s_r_no_zoom.jpg Graphic file (type jpg)
+
+<use img/s_r_no_zoom.jpg> <img/s_r_5_zoom.jpg, id=713, 1606.0pt x 1003.75pt>
+File: img/s_r_5_zoom.jpg Graphic file (type jpg)
+
+<use img/s_r_5_zoom.jpg>
+<img/s_r_5_zoom_color.jpg, id=714, 1606.0pt x 1003.75pt>
+File: img/s_r_5_zoom_color.jpg Graphic file (type jpg)
+
+<use img/s_r_5_zoom_color.jpg>
+<img/s_r_10_zoom.jpg, id=715, 1606.0pt x 1003.75pt>
+File: img/s_r_10_zoom.jpg Graphic file (type jpg)
+ <use img/s_r_10_zoom.jpg>
+<img/s_r_20_zoom.jpg, id=716, 1606.0pt x 1003.75pt>
+File: img/s_r_20_zoom.jpg Graphic file (type jpg)
+ <use img/s_r_20_zoom.jpg>
+<img/s_r_30_zoom.jpg, id=717, 1606.0pt x 1003.75pt>
+File: img/s_r_30_zoom.jpg Graphic file (type jpg)
+ <use img/s_r_30_zoom.jpg>
+<img/s_r_30_zoom_color.jpg, id=718, 1606.0pt x 1003.75pt>
+File: img/s_r_30_zoom_color.jpg Graphic file (type jpg)
+
+<use img/s_r_30_zoom_color.jpg> [47 <./img/s_r_no_zoom.jpg>] [48 <./img/s_r_5_z
+oom.jpg> <./img/s_r_5_zoom_color.jpg> <./img/s_r_10_zoom.jpg> <./img/s_r_20_zoo
+m.jpg> <./img/s_r_30_zoom.jpg> <./img/s_r_30_zoom_color.jpg>]
+<img/s_r_g_no_zoom.jpg, id=730, 1606.0pt x 1003.75pt>
+File: img/s_r_g_no_zoom.jpg Graphic file (type jpg)
+
+<use img/s_r_g_no_zoom.jpg>
+<img/s_r_g_5_zoom.jpg, id=733, 1606.0pt x 1003.75pt>
+File: img/s_r_g_5_zoom.jpg Graphic file (type jpg)
+
+<use img/s_r_g_5_zoom.jpg>
+<img/s_r_g_5_zoom_color.jpg, id=734, 1606.0pt x 1003.75pt>
+File: img/s_r_g_5_zoom_color.jpg Graphic file (type jpg)
+
+<use img/s_r_g_5_zoom_color.jpg>
+<img/s_r_g_10_zoom.jpg, id=735, 1606.0pt x 1003.75pt>
+File: img/s_r_g_10_zoom.jpg Graphic file (type jpg)
+
+<use img/s_r_g_10_zoom.jpg>
+<img/s_r_g_20_zoom.jpg, id=736, 1606.0pt x 1003.75pt>
+File: img/s_r_g_20_zoom.jpg Graphic file (type jpg)
+
+<use img/s_r_g_20_zoom.jpg>
+<img/s_r_g_30_zoom.jpg, id=737, 1606.0pt x 1003.75pt>
+File: img/s_r_g_30_zoom.jpg Graphic file (type jpg)
+
+<use img/s_r_g_30_zoom.jpg>
+<img/s_r_g_30_zoom_color.jpg, id=738, 1606.0pt x 1003.75pt>
+File: img/s_r_g_30_zoom_color.jpg Graphic file (type jpg)
+
+<use img/s_r_g_30_zoom_color.jpg>
+<img/problem_solving_20_20.jpg, id=740, 1606.0pt x 1003.75pt>
+File: img/problem_solving_20_20.jpg Graphic file (type jpg)
+
+<use img/problem_solving_20_20.jpg>
+<img/problem_solving_20_20_color.jpg, id=741, 1606.0pt x 1003.75pt>
+File: img/problem_solving_20_20_color.jpg Graphic file (type jpg)
+
+<use img/problem_solving_20_20_color.jpg>
+<img/normal_zoom.jpg, id=742, 1606.0pt x 1003.75pt>
+File: img/normal_zoom.jpg Graphic file (type jpg)
+ <use img/normal_zoom.jpg>
+[49 <./img/s_r_g_no_zoom.jpg>] [50 <./img/s_r_g_5_zoom.jpg> <./img/s_r_g_5_zoom
+_color.jpg> <./img/s_r_g_10_zoom.jpg> <./img/s_r_g_20_zoom.jpg> <./img/s_r_g_30
+_zoom.jpg> <./img/s_r_g_30_zoom_color.jpg>]
+<img/12_edge_crop.jpg, id=756, 661.62675pt x 427.51268pt>
+File: img/12_edge_crop.jpg Graphic file (type jpg)
+
+<use img/12_edge_crop.jpg>
+<img/12_mild_offset_crop.jpg, id=757, 661.62675pt x 427.51268pt>
+File: img/12_mild_offset_crop.jpg Graphic file (type jpg)
+
+<use img/12_mild_offset_crop.jpg>
+<img/12_center_crop.jpg, id=758, 661.62675pt x 427.51268pt>
+File: img/12_center_crop.jpg Graphic file (type jpg)
+
+<use img/12_center_crop.jpg>
+<img/p_vs_t_clip.jpg, id=759, 549.65915pt x 376.61832pt>
+File: img/p_vs_t_clip.jpg Graphic file (type jpg)
+
+<use img/p_vs_t_clip.jpg> [51 <./img/problem_solving_20_20.jpg> <./img/problem_
+solving_20_20_color.jpg>] <img/20_no_linear.jpg, id=766, 1606.0pt x 1003.75pt>
+File: img/20_no_linear.jpg Graphic file (type jpg)
+
+<use img/20_no_linear.jpg>
+<img/20_no_linear_color.jpg, id=767, 1606.0pt x 1003.75pt>
+File: img/20_no_linear_color.jpg Graphic file (type jpg)
+
+<use img/20_no_linear_color.jpg>
+<img/20_one_quarter.jpg, id=768, 1606.0pt x 1003.75pt>
+File: img/20_one_quarter.jpg Graphic file (type jpg)
+
+<use img/20_one_quarter.jpg>
+<img/20_one_quarter_color.jpg, id=769, 1606.0pt x 1003.75pt>
+File: img/20_one_quarter_color.jpg Graphic file (type jpg)
+
+<use img/20_one_quarter_color.jpg>
+<img/20_half_linear.jpg, id=770, 1606.0pt x 1003.75pt>
+File: img/20_half_linear.jpg Graphic file (type jpg)
+
+<use img/20_half_linear.jpg>
+<img/20_half_linear_color.jpg, id=771, 1606.0pt x 1003.75pt>
+File: img/20_half_linear_color.jpg Graphic file (type jpg)
+
+<use img/20_half_linear_color.jpg>
+<img/20_three_quarter.jpg, id=772, 1606.0pt x 1003.75pt>
+File: img/20_three_quarter.jpg Graphic file (type jpg)
+
+<use img/20_three_quarter.jpg>
+<img/20_three_quarter_color.jpg, id=773, 1606.0pt x 1003.75pt>
+File: img/20_three_quarter_color.jpg Graphic file (type jpg)
+
+<use img/20_three_quarter_color.jpg>
+<img/20_only_linear.jpg, id=774, 1606.0pt x 1003.75pt>
+File: img/20_only_linear.jpg Graphic file (type jpg)
+
+<use img/20_only_linear.jpg>
+<img/20_only_linear_color.jpg, id=775, 1606.0pt x 1003.75pt>
+File: img/20_only_linear_color.jpg Graphic file (type jpg)
+
+<use img/20_only_linear_color.jpg>
+
+LaTeX Warning: Float too large for page by 3.08626pt on input line 134.
+
+[52 <./img/normal_zoom.jpg>]
+<img/satellite_render_graph.jpg, id=781, 592.76pt x 446.76pt>
+File: img/satellite_render_graph.jpg Graphic file (type jpg)
+
+<use img/satellite_render_graph.jpg> [53 <./img/12_edge_crop.jpg> <./img/12_mil
+d_offset_crop.jpg> <./img/12_center_crop.jpg>]
+<img/one_mouse_move.jpg, id=791, 592.76pt x 446.76pt>
+File: img/one_mouse_move.jpg Graphic file (type jpg)
+
+<use img/one_mouse_move.jpg>
+<img/two_mouse_move.jpg, id=792, 592.76pt x 446.76pt>
+File: img/two_mouse_move.jpg Graphic file (type jpg)
+
+<use img/two_mouse_move.jpg>
+<img/three_mouse_move.jpg, id=793, 592.76pt x 446.76pt>
+File: img/three_mouse_move.jpg Graphic file (type jpg)
+
+<use img/three_mouse_move.jpg> [54 <./img/p_vs_t_clip.jpg>] [55 <./img/20_no_li
+near.jpg> <./img/20_no_linear_color.jpg> <./img/20_one_quarter.jpg> <./img/20_o
+ne_quarter_color.jpg> <./img/20_half_linear.jpg> <./img/20_half_linear_color.jp
+g> <./img/20_three_quarter.jpg> <./img/20_three_quarter_color.jpg> <./img/20_on
+ly_linear.jpg> <./img/20_only_linear_color.jpg>]
+
+LaTeX Warning: Citation `gdebugger_website' on page 56 undefined on input line 
+188.
+
+<img/FPS_graph.jpg, id=804, 592.76pt x 446.76pt>
+File: img/FPS_graph.jpg Graphic file (type jpg)
+ <use img/FPS_graph.jpg>
+[56 <./img/satellite_render_graph.jpg>] [57 <./img/one_mouse_move.jpg> <./img/t
+wo_mouse_move.jpg>] [58 <./img/three_mouse_move.jpg> <./img/FPS_graph.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 226.
+
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 226.
+ [59] [60]) [61]
+\openout2 = `FutureWork.aux'.
+
+
+(./FutureWork.tex
+CHAPTER 6.
+
+LaTeX Warning: Citation `Keahey1998' on page 62 undefined on input line 18.
+
+<img/artifacts_clipped.jpg, id=831, 539.48029pt x 366.43944pt>
+File: img/artifacts_clipped.jpg Graphic file (type jpg)
+
+<use img/artifacts_clipped.jpg> [62
+
+
+
+ <./img/artifacts_clipped.jpg>]
+
+LaTeX Warning: Citation `Keahey1998' on page 63 undefined on input line 30.
+
+<img/aliasing_clip.jpg, id=836, 875.3831pt x 712.52113pt>
+File: img/aliasing_clip.jpg Graphic file (type jpg)
+
+<use img/aliasing_clip.jpg>
+
+LaTeX Warning: Citation `Keahey1996' on page 63 undefined on input line 41.
+
+<img/added_distortion_clip.jpg, id=838, 468.22816pt x 427.51268pt>
+File: img/added_distortion_clip.jpg Graphic file (type jpg)
+
+<use img/added_distortion_clip.jpg> [63] [64 <./img/aliasing_clip.jpg> <./img/a
+dded_distortion_clip.jpg>]) [65]
+No file Thesis_Espinoza.bbl.
+[66
+
+
+
+] (./Thesis_Espinoza.aux (./TitlePage.aux) (./Acknowledgement.aux)
+(./Abstract.aux) (./Intro.aux) (./PreviousWorks.aux) (./Visualization.aux)
+(./Magnification.aux) (./Results.aux) (./FutureWork.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 10475 strings out of 493848
+ 150751 string characters out of 1152823
+ 275536 words of memory out of 3000000
+ 13202 multiletter control sequences out of 15000+50000
+ 21241 words of font info for 55 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 38i,11n,49p,1053b,1112s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texmf-texlive/fonts/type1/pub
+lic/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfbi1200.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc1200.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1095.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on Thesis_Espinoza.pdf (74 pages, 31583376 bytes).
+PDF statistics:
+ 980 PDF objects out of 1000 (max. 8388607)
+ 242 named destinations out of 1000 (max. 500000)
+ 614 words of extra memory for PDF output out of 10000 (max. 10000000)
+

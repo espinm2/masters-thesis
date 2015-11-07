@@ -1,0 +1,36 @@
+\contentsline {chapter}{LIST OF TABLES}{iv}{chapter*.3}
+\contentsline {chapter}{LIST OF FIGURES}{v}{chapter*.5}
+\contentsline {chapter}{ACKNOWLEDGMENT}{vii}{section*.6}
+\contentsline {chapter}{ABSTRACT}{viii}{section*.8}
+\contentsline {chapter}{\numberline {1.}INTRODUCTION}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Focus Plus Context}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Thesis Outline and Contributions}{7}{section.1.2}
+\contentsline {chapter}{\numberline {2.}PREVIOUS WORK}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Focus Plus Context Visualizations}{9}{section.2.1}
+\contentsline {section}{\numberline {2.2}Geometric Transformations}{12}{section.2.2}
+\contentsline {section}{\numberline {2.3}Summary}{18}{section.2.3}
+\contentsline {chapter}{\numberline {3.}VISUALIZATION}{19}{chapter.3}
+\contentsline {section}{\numberline {3.1}Legacy OpenGL}{19}{section.3.1}
+\contentsline {section}{\numberline {3.2}Modern OpenGL}{20}{section.3.2}
+\contentsline {section}{\numberline {3.3}Base Visualization Elements}{25}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Buttons}{25}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Lines}{29}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Text}{32}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Satellite Images}{34}{section.3.4}
+\contentsline {section}{\numberline {3.5}Road Network}{34}{section.3.5}
+\contentsline {section}{\numberline {3.6}Summary}{36}{section.3.6}
+\contentsline {chapter}{\numberline {4.}MAGNIFICATION}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}Texture Magnification}{38}{section.4.1}
+\contentsline {section}{\numberline {4.2}Graph Magnification}{41}{section.4.2}
+\contentsline {section}{\numberline {4.3}Multi-cursor Magnification}{42}{section.4.3}
+\contentsline {section}{\numberline {4.4}Summary}{44}{section.4.4}
+\contentsline {chapter}{\numberline {5.}RESULTS}{46}{chapter.5}
+\contentsline {section}{\numberline {5.1}Images}{46}{section.5.1}
+\contentsline {section}{\numberline {5.2}Performance}{52}{section.5.2}
+\contentsline {section}{\numberline {5.3}Survey and Discussion}{59}{section.5.3}
+\contentsline {section}{\numberline {5.4}Summary}{60}{section.5.4}
+\contentsline {chapter}{\numberline {6.}FUTURE WORK AND CONCLUSION}{62}{chapter.6}
+\contentsline {section}{\numberline {6.1}Satellite Images}{62}{section.6.1}
+\contentsline {section}{\numberline {6.2}Graph Network}{64}{section.6.2}
+\contentsline {section}{\numberline {6.3}Conclusion}{65}{section.6.3}
+\contentsline {chapter}{References}{66}{section*.54}
